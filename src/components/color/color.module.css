@@ -1,0 +1,62 @@
+.color_1 {
+  background: #666ca3;
+}
+
+.color_2 {
+  background: #13183f;
+}
+
+.color_3 {
+  background: #83869a;
+}
+
+.color_4 {
+  background: #f74780;
+}
+
+.color_5 {
+  background: #ffa7c3;
+}
+
+.color_6 {
+  background: #fff;
+}
+
+.color_7 {
+  background: linear-gradient(180deg, #ff6f48 0.04%, #f02aa6 100%);
+}
+
+.color_8 {
+  background: linear-gradient(180deg, #4851ff 0%, #f02aa6 99.92%);
+}
+
+.color_box {
+  width: 255px;
+  height: 125px;
+  border-radius: 10px;
+}
+
+.code {
+  margin-top: 24px;
+  color: #13183f;
+  font-feature-settings: "clig" off, "liga" off;
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 23px;
+}
+
+.rgb {
+  margin-top: 16px;
+  color:  #13183f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px; 
+}
+
+.hsl {
+  margin-top: 6px;
+  color:  #13183f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px; 
+}
